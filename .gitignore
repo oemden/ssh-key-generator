@@ -1,0 +1,6 @@
+# Repository marker
+.repo_initiated_by_gitremoteforge
+
+# Environment files
+.*env
+!.env.example
