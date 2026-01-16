@@ -3,7 +3,7 @@
 # A Bash script to install gitremote.sh.
 # Will be installed in /usr/local/bin/gitremote
 
-VERSION="0.0.1"
+VERSION="0.0.2"
 INSTALL_PATH="/usr/local/bin/skg"
 SCRIPT_SOURCE_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/ssh-key-generator.sh"
 
